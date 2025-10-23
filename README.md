@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
   <img src="https://img.shields.io/badge/Crypto-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
   <img src="https://img.shields.io/badge/Bug_Bounty-DA291C?style=for-the-badge&logo=bugsnag&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber_Security-333333?style=for-the-badge&logo=shieldy&logoColor=white" />
 </p>
 
 ##### Operating Systems I Use:
