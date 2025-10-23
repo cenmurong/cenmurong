@@ -10,7 +10,7 @@
 
 ---
 
-### 🛠️ My Tech Stack & Skills
+##### My Tech Stack & Skills
 
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -38,7 +38,7 @@
 
 ---
 
-### 🌐 Connect With Me
+##### Connect With Me
 
 <p>
   <a href="https://x.com/cenmurong"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
