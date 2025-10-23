@@ -1,18 +1,12 @@
-<table>
-  <tr>
-    <td width="300" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2libm0zNXBsZGZpZjJjYXdtMm1hbmFlbjgyNnd5ZTVzY3dvbXZteSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ztpMY1t5VYWlO/giphy.gif" alt="Coding GIF" width="300">
-    </td>
-    <td valign="top">
-      <h2 align="center">Hi World! I'm cenmurong</h2>
-      <ul>
-        <li>I’m currently working on <strong>Telegram bots</strong> using Python and managing several <strong>VPS environments</strong>.</li>
-        <li>I’m currently learning more about <strong>Solana</strong> blockchain development.</li>
-        <li>Ask me about: <strong>Python, Linux, System Administration, or Web Scraping</strong>.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2libm0zNXBsZGZpZjJjYXdtMm1hbmFlbjgyNnd5ZTVzY3dvbXZteSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ztpMY1t5VYWlO/giphy.gif" alt="Coding GIF" width="300">
+</p>
+
+<p align="center">Hi World! I'm cenmurong</p>
+
+- I’m currently working on **Telegram bots** using Python and managing several **VPS environments**.
+- I’m currently learning more about **Solana** blockchain development.
+- Ask me about: **Python, Linux, System Administration, or Web Scraping**.
 
 ---
 
