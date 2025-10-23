@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Cyber_Security-333333?style=for-the-badge&logo=shieldy&logoColor=white" />
 </p>
 
-##### Operating Systems I Use:
+##### Operating Systems
 <p>
   <img src="https://img.shields.io/badge/Linux_Mint-87C37A?style=for-the-badge&logo=linux-mint&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
