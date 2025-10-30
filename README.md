@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2libm0zNXBsZGZpZjJjYXdtMm1hbmFlbjgyNnd5ZTVzY3dvbXZteSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ztpMY1t5VYWlO/giphy.gif" alt="Coding GIF" width="300">
 </p>
 
-<h2 align="center">Hi World! I'm cenmurong</h2>
+<h2 align="center">Hi World! I'm Murong</h2>
 
 - I’m currently working on **Telegram bots** using Python and managing several **VPS environments**.
 - I’m currently learning more about **Solana** blockchain development.
