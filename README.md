@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi World! I'm Murong</h2>
 
-- I’m currently working on **Telegram bots** using Python and managing several **VPS environments**.
+- I’m currently freelance offer me an interesting idea 
 - I’m currently learning more about **Solana** blockchain development.
 - Ask me about: **Python, Linux, System Administration, or Web Scraping**.
 
