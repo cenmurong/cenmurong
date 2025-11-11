@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2libm0zNXBsZGZpZjJjYXdtMm1hbmFlbjgyNnd5ZTVzY3dvbXZteSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ztpMY1t5VYWlO/giphy.gif" alt="Coding GIF" width="300">
-</p>
-
 <h2 align="center">Hi World! I'm Murong</h2>
 
-- I’m currently freelance offer me an interesting idea 
+- Have an interesting idea? I'm a freelancer ready to help bring it to life!
 - I’m currently learning more about **Solana** blockchain development.
 - Ask me about: **Python, Linux, System Administration, or Web Scraping**.
 
